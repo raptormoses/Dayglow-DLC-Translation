@@ -1,0 +1,139 @@
+#FALLOUT: SONORA
+
+@ This game was made on Fallout 2 engine
+@ in the year 2020-2021
+
+
+
+#- DEVELOPERS -
+
+
+Alexander "BLACK DESIGNER" Posheluzhin
+@idea, design, writing, scripting,
+@3D modeling, environment object sprites,
+@gameplay text, location maps, cutscenes
+
+
+Alexander "Red888guns" Berezin
+@3D modeling, environment object sprites,
+@inventory sprites, new critters and talking heads,
+@video of the ship explosion in the version 1.10
+
+
+Osman "Wolfram" Adzhiusmanov
+@creation of the opening cinematic
+
+
+Grigory Sokolov
+@Puerto explosion video before version 1.10,
+@video consulting
+
+
+Denis "MASTER" Voloshin
+@quality control, testing, story help
+
+
+Dmitry Kuznetsov
+@testing of version 0.29
+
+
+"Foxx"
+@custom installer, adaptation of the HRP and sfall
+
+
+Lexx
+@additional animation for NMLTHR.
+
+
+Enrique Barredo
+@consultation and Spanish translation
+
+
+David Ageev
+@game text editing (Garage City, Rangers,
+@San-Brahmin, type objects, random encounters)
+
+
+Ilya Nizovskikh
+@game text editing (Flagstaff, Two Sun, Casa Nueva)
+
+
+Alexander "Vault_boy" Chernenko
+@game text editing 
+@(Jackals, Phoenix, Old Motel, Inferno, Pip-Boy entries)
+
+
+Tainted Acolyte.
+@game text editing (Casa Grande, Raiders)
+
+
+Elena Skryvaeva
+@game text editing (gender bloopers and punctuation)
+
+
+Dmitry "Jimmy J." Chepusov
+@voice acting in the slideshow and opening video
+
+
+Alexey "NOBODYS NAIL MACHINE" Trofimov
+@composer
+
+
+@The song in the intro cinematic
+@and credits is "La Cucaracha" 
+@performed by Louis Armstrong
+
+
+
+#- DLC developers: -
+
+Alexander Berezin (graphics)
+Alexey Trofimov (music)
+Hakob Abrahamian (testing)
+Tainted Acolyte (text editing)
+Alexander Posheluzhin (the rest)
+
+
+
+#- SPECIAL THANKS TO -
+
+@Participants of our forum and VKontakte group.
+@Thank you for your moral support,
+@for your critique and suggestions!
+
+
+Hakob "Vaulter" Abrahamian
+@for our VKontakte group
+
+Egor "Vault 13" Ostapenko
+@for forum and informational support
+
+WWW.FALLOUT-NEVADA.UCOZ.RU
+@official website
+
+ALPOSH(a)MAIL.RU
+@contact Nevada Band
+
+
+@Fallout 2 modding tools were used
+@while working on this project:
+
+BIS mapper
+Fallout 2 DAT explorer ver 1.43
+sFall ScriptEditor ver 4.1.5.0
+Frame Animator ver 2.51 by Jochua
+AVI to MVE converter by ABel
+@and others
+
+
+
+
+#- ALL RIGHTS RESERVED BY LAW -
+
+@Copying, duplication and reproduction
+@of this program or any part thereof for commercial purposes
+@without the express permission of the copyright holders
+@is a violation of copyright law.
+
+@The rights to the Fallout trademark belong to
+Bethesda Softworks LLC
